@@ -21,6 +21,8 @@ $del=<>;
 print "\n$del";
 $DATA=~tr/["$del"]+//d;
 print "\n$DATA";
+print "\n$DATA";
+
 
 
 
